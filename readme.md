@@ -12,7 +12,7 @@ Turn on your computers (if you haven't already).
 
 ## Step 3.
 
-Here is where things begin to diverge. If you are still not entirely comfortable with HTML, CSS, Javascript that we've been discussing in class in the past couple of weeks, **head on over to [codecademy.com](codecademy.com) and work through some of the exercises in the CSS/HTML/JS track**.
+Here is where things begin to diverge. If you are still not entirely comfortable with HTML, CSS, Javascript that we've been discussing in class in the past couple of weeks, **head on over to [http://codecademy.com](codecademy.com) and work through some of the exercises in the CSS/HTML/JS track**.
 
 ---
 
